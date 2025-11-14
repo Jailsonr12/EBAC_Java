@@ -1,13 +1,30 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class main {
 
+
     public static void main(String[] args) {
-        Class<?> clazz = Cliente.class;
 
-        Tabela tabela = clazz.getAnnotation(Tabela.class);
+        List<Pessoa> pessoas = new ArrayList<>();
+        pessoas.add(new Pessoa("Ana", "Feminino"));
+        pessoas.add(new Pessoa("Bruno", "Masculino"));
+        pessoas.add(new Pessoa("Carla", "Feminino"));
+        pessoas.add(new Pessoa("Daniel", "Masculino"));
 
-        String nomeTabela = tabela.value();
+        List<Pessoa> mulheres = pessoas.stream()
+                                        .filter(p -> p.getSexo().equalsIgnoreCase("Feminino"))
+                                        .toList();
 
-        System.out.println("Nome da anotação:" + nomeTabela);
+        List<Pessoa> homens = pessoas.stream()
+                                        .filter(p -> p.getSexo().equalsIgnoreCase("Masculino"))
+                                        .toList();
+
+        System.out.println("Mulheres:");
+        mulheres.forEach(System.out::println);
+
+        System.out.println("\nHomens:");
+        homens.forEach(System.out::println);
 
     }
 }
