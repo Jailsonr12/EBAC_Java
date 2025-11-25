@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39f02574-6757-4985-ac24-4bc4503cc84c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projeto1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Ford/FordFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Ford/FordSedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Ford/FordSuv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Interface/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Models/Sedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Models/Suv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Toyota/ToyotaFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Toyota/ToyotaSedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Toyota/ToyotaSuv.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="exerciciomod35" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jailsonr12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jailsonr12/EBAC_Java.git",
+    "accountId": "cc2a2cc1-5d45-4e20-b5bd-2f9dff69d1e5"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="35zPYcmqM5vDCqm684HYLBUR9BR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "exerciciomod35",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jailson Roth/Documents/GitHub/EBAC_Java/ebac"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f02574-6757-4985-ac24-4bc4503cc84c" name="Changes" comment="" />
+      <created>1764109975628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764109975628</updated>
+    </task>
+    <servers />
+  </component>
+</project>
