@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+node_modules
 .apt_generated
 .classpath
 .factorypath
